@@ -1,4 +1,4 @@
-package cloud.benchflow.plugins.camunda.v1;
+package cloud.benchflow.plugins.camunda;
 
 import java.util.HashMap;
 import java.util.Map;
